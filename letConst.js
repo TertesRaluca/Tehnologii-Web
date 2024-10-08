@@ -10,4 +10,4 @@ console.log(obj.name)
 
 
 
-obj={...obj.obj, name:'Mihai'}
+obj={...obj, name:'Mihai'}
